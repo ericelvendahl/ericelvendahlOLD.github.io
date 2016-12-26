@@ -1,0 +1,26 @@
+body { 	
+		font-family: verdana;
+	}
+	
+body {
+		text-align: center;
+		color: 37393a;
+		background: linear-gradient(#37393a, #77b6ea);
+	}
+
+#container {
+		margin-top: 20px;
+		margin-left: 200px;
+		margin-right: 200px;
+
+		padding: 10px 150px 10px 150px;
+
+		border-radius: 15px;
+		background-color: #d6c9c9;
+
+		text-align: left;
+		}
+
+#content-contact {
+		text-align: center;	
+	}
